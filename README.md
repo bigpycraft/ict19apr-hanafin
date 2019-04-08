@@ -85,6 +85,34 @@
 
 <hr>
 
+### JDK Install & JAVA Environment Setting
+
+<table align="left">
+    <tr align="left">
+        <td width="200">
+            <a href="https://www.oracle.com/technetwork/java/javase/downloads/">
+            <img src="./images/icon_java-se-downloads-1612441.gif" width="120" />
+            </a>
+        </td>
+        <td width="800">
+<div align="left"> 
+    <b> - Download </b> : https://www.oracle.com/technetwork/java/javase/downloads/
+    <br/><br/> 
+    <b> - 시스템 환경변수 </b>
+    <br/>
+    <b> 1. JAVA_HOME </b> = C:\Java\jdk1.8.0
+    <br/>
+    <b> 2. Path </b> = %Path%; %JAVA_HOME%\bin
+    <br/>
+    <b> 3. CLASSPATH </b> = .; %JAVA_HOME%\lib;
+</div>
+        </td>
+    </tr>
+</table>
+
+
+<hr>
+
 <h3> Jupyter Notebook </h3>
 
 <table align="left">
