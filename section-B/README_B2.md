@@ -22,10 +22,8 @@
 
 ### Python Package 
 - 2-1. [FileIO Basic                               ][pkg-21]
-- 2-2. [FileIO OS-CMD                              ][pkg-22]
-- 2-3. [Exceptions                                 ][pkg-23]
-- 2-4. [Module                                     ][pkg-24]
-- 2-5. [DateTIme                                   ][pkg-25]
+- 2-2. [Exceptions                                 ][pkg-23]
+- 2-3. [DateTIme                                   ][pkg-25]
 
 ### Map and Reduce
 - 3-1. [Lambda Function & Internal Functions       ][pkg-31]
@@ -42,8 +40,6 @@
 ### Data Visualization
 - 6-1. [MatplotLib.Pyplot 1                        ][pkg-61-1]
 - 6-2. [MatplotLib.Pyplot 2                        ][pkg-61-2]
-- 6-3. [Color & Style                              ][pkg-63]
-- 6-4. [Annotation                                 ][pkg-64]
 
 
 [pkg-11]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-B/html/PB_DA_101_Review_DataType.html             "Go pkg-11"
