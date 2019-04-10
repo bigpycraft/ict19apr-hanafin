@@ -29,6 +29,18 @@
 - 3-1. [Lambda Function & Internal Functions       ][pkg-31]
 - 3-2. [Map, Filter, Reduce                        ][pkg-32]
 
+### Data Processing 1
+- 4-1. [NumPy1                                     ][pkg-41]
+- 4-2. [JSON Handle                                ][pkg-43]
+
+### Data Processing 2
+- 5-1. [Pandas1                                    ][pkg-51]
+- 5-2. [Regular Expression                         ][pkg-53]
+
+### Data Visualization
+- 6-1. [MatplotLib.Pyplot 1                        ][pkg-61-1]
+- 6-2. [MatplotLib.Pyplot 2                        ][pkg-61-2]
+
 
 [pkg-11]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-B/html/PB_DA_101_Review_DataType.html             "Go pkg-11"
 [pkg-12]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-B/html/PB_DA_102_Review_DataStructure.html        "Go pkg-12"
