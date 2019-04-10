@@ -30,11 +30,11 @@
 - 3-2. [Map, Filter, Reduce                        ][pkg-32]
 
 ### Data Processing 1
-- 4-1. [NumPy1                                     ][pkg-41]
+- 4-1. [NumPy                                      ][pkg-41]
 - 4-2. [JSON Handle                                ][pkg-43]
 
 ### Data Processing 2
-- 5-1. [Pandas1                                    ][pkg-51]
+- 5-1. [Pandas                                     ][pkg-51]
 - 5-2. [Regular Expression                         ][pkg-53]
 
 ### Data Visualization
