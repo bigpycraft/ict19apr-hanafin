@@ -14,16 +14,17 @@
 <hr>
 
 ### Open Data - Kaggle Analysis
-- 미션 [Mission to confirm 3 fact                   ][bda-M1]
-- 1-1. [Titanic Data Analysis                       ][bda-12]
+- M-1. [Mission to confirm 3 fact                   ][bda-M1]
+- A-1. [Titanic Data Analysis                       ][bda-12]
 
 ### Public Data Analysis
 - 2-1. [Public Data Portal 1                        ][bda-21]
 - 2-2. [Public Data Portal 2                        ][bda-22]
+- 2-3. [Public Data Portal 3                        ][bda-23]
 
 ### Statistical Data Analysis
-- 3-1. [Folium for Map                              ][bda-31]
-- 3-2. [Seoul Stat 2                                ][bda-32]
+- 3-1. [Folium for Map                              ][bda-32]
+- 3-2. [Seoul Stat 2                                ][bda-33]
 
 
 [bda-M1]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_310_Kaggle_Stat_Visualize___Mission.html          "Go bda-M1"
@@ -33,9 +34,9 @@
 [bda-21]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_321_DataGoKr_노화빌딩.html                        "Go bda-21"
 [bda-22]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_322_DataGoKr_범죄발생.html                        "Go bda-22"
 [bda-23]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_323_DataGoKr_CCTV현황_in2017_ver2.html            "Go bda-23"
-[bda-31]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_332_Folium_for_Map_ver2.html                      "Go bda-32"
-[bda-32]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_333_Seoul_Population_18_3Q.html                   "Go bda-33"
-[bda-33]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_331_OpenGov_Seoul_CCTV_in2018_ver3.html           "Go bda-31"
+[bda-31]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_331_OpenGov_Seoul_CCTV_in2018_ver3.html           "Go bda-31"
+[bda-32]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_332_Folium_for_Map_ver2.html                      "Go bda-32"
+[bda-33]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_333_Seoul_Population_18_3Q.html                   "Go bda-33"
 
 
 <hr>
