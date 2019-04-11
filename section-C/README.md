@@ -20,11 +20,10 @@
 ### Public Data Analysis
 - 2-1. [Public Data Portal 1                        ][bda-21]
 - 2-2. [Public Data Portal 2                        ][bda-22]
-- 2-3. [Public Data Portal 3                        ][bda-23]
 
 ### Statistical Data Analysis
 - 3-1. [Folium for Map                              ][bda-32]
-- 3-2. [Seoul Stat 2                                ][bda-33]
+- 3-2. [Seoul Population Stat                       ][bda-33]
 
 
 [bda-M1]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_310_Kaggle_Stat_Visualize___Mission.html          "Go bda-M1"
